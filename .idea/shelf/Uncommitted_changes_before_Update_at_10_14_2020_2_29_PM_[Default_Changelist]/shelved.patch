@@ -1,0 +1,119 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\r\n    <title>Home Page</title>\r\n</head>\r\n<body>\r\n<p>hello</p>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision a1da0d62146f4b1c2bd202a6eb5c68aa80e39689)
++++ index.html	(date 1602700114157)
+@@ -6,6 +6,41 @@
+     <title>Home Page</title>
+ </head>
+ <body>
++<div class="container">
++<nav class="navbar navbar-dark bg-dark">
++    <a class="navbar-brand" href="index.html">How The Internet Works</a>
++    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
++        <span class="navbar-toggler-icon"></span>
++    </button>
++    <li class="nav-item active">
++        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="about.html">About</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="what_is_the_internet.html">What Is The Internet</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="wires_cables_wifi.html">Wires Cables Wifi</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="packets_routing_reliability.html">Packets Routing Reliability</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="ip_addressing_and_dns.html">IP Addressing And DNS</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="http_and_html.html">HTTP And HTML</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="encryption_public_keys.html">Encryption And Public Keys</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link" href="cybersecurity_crime.html">Cybersecurity Crime</a>
++    </li>
++</nav>
++</div>
+ <p>hello</p>
+ </body>
+ </html>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e293cc9f-0b0c-416e-bfba-8346d82b3056\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/deployment.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/deployment.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1ipHb2L5dRzcdjZilOLPn9eEgm6\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.highlight.mappings\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.highlight.symlinks\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.show.date\" value=\"false\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.show.permissions\" value=\"false\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.show.size\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../is117HistoryOfInternet\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e293cc9f-0b0c-416e-bfba-8346d82b3056\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1602597681163</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602597681163</updated>\r\n      <workItem from=\"1602597682239\" duration=\"115000\" />\r\n      <workItem from=\"1602695325921\" duration=\"2645000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"729\" y=\"238\" key=\"#Deployment\" timestamp=\"1602697694222\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"729\" y=\"238\" key=\"#Deployment/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602697694222\" />\r\n    <state x=\"713\" y=\"225\" key=\"#SSH_Configurations\" timestamp=\"1602597704696\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"713\" y=\"225\" key=\"#SSH_Configurations/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602597704696\" />\r\n    <state x=\"943\" y=\"318\" key=\"FileChooserDialogImpl\" timestamp=\"1602695946227\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"943\" y=\"318\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602695946227\" />\r\n    <state x=\"1010\" y=\"460\" key=\"Github.ShareDialog\" timestamp=\"1602697463389\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1010\" y=\"460\" key=\"Github.ShareDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602697463389\" />\r\n    <state x=\"938\" y=\"268\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1602697514974\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"938\" y=\"268\" key=\"Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602697514974\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a1da0d62146f4b1c2bd202a6eb5c68aa80e39689)
++++ .idea/workspace.xml	(date 1602700141540)
+@@ -2,7 +2,6 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="e293cc9f-0b0c-416e-bfba-8346d82b3056" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+     </list>
+@@ -54,12 +53,24 @@
+       <option name="presentableId" value="Default" />
+       <updated>1602597681163</updated>
+       <workItem from="1602597682239" duration="115000" />
+-      <workItem from="1602695325921" duration="2645000" />
++      <workItem from="1602695325921" duration="4226000" />
++    </task>
++    <task id="LOCAL-00001" summary="All text put in pages">
++      <created>1602698716462</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1602698716462</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="All text put in pages" />
++    <option name="LAST_COMMIT_MESSAGE" value="All text put in pages" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="729" y="238" key="#Deployment" timestamp="1602697694222">
+@@ -70,10 +81,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="713" y="225" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1602597704696" />
+-    <state x="943" y="318" key="FileChooserDialogImpl" timestamp="1602695946227">
++    <state x="943" y="318" key="FileChooserDialogImpl" timestamp="1602699848629">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="943" y="318" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602695946227" />
++    <state x="943" y="318" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602699848629" />
+     <state x="1010" y="460" key="Github.ShareDialog" timestamp="1602697463389">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+@@ -82,5 +93,9 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="938" y="268" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602697514974" />
++    <state x="0" y="503" key="Vcs.Push.Dialog.v2" timestamp="1602699708994">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="0" y="503" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602699708994" />
+   </component>
+ </project>
+\ No newline at end of file

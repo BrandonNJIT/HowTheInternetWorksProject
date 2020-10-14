@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e293cc9f-0b0c-416e-bfba-8346d82b3056" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -54,12 +53,24 @@
       <option name="presentableId" value="Default" />
       <updated>1602597681163</updated>
       <workItem from="1602597682239" duration="115000" />
-      <workItem from="1602695325921" duration="2645000" />
+      <workItem from="1602695325921" duration="4282000" />
     </task>
+    <task id="LOCAL-00001" summary="All text put in pages">
+      <created>1602698716462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602698716462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All text put in pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="All text put in pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="238" key="#Deployment" timestamp="1602697694222">
@@ -70,10 +81,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="713" y="225" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1602597704696" />
-    <state x="943" y="318" key="FileChooserDialogImpl" timestamp="1602695946227">
+    <state x="943" y="318" key="FileChooserDialogImpl" timestamp="1602699848629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="943" y="318" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602695946227" />
+    <state x="943" y="318" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602699848629" />
     <state x="1010" y="460" key="Github.ShareDialog" timestamp="1602697463389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -82,5 +93,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="938" y="268" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602697514974" />
+    <state x="0" y="503" key="Vcs.Push.Dialog.v2" timestamp="1602699708994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="503" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602699708994" />
+    <state x="836" y="632" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602700162382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="632" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602700162382" />
   </component>
 </project>

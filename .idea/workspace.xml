@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e293cc9f-0b0c-416e-bfba-8346d82b3056" name="Default Changelist" comment="Finished updating all pages, will import pictures next">
-      <change afterPath="$PROJECT_DIR$/Cables.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP addressing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encryption.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cybersecurity_crime.html" beforeDir="false" afterPath="$PROJECT_DIR$/cybersecurity_crime.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encryption_public_keys.html" beforeDir="false" afterPath="$PROJECT_DIR$/encryption_public_keys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http_and_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/http_and_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ip_addressing_and_dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/ip_addressing_and_dns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packets_routing_reliability.html" beforeDir="false" afterPath="$PROJECT_DIR$/packets_routing_reliability.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_is_the_internet.html" beforeDir="false" afterPath="$PROJECT_DIR$/what_is_the_internet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wires_cables_wifi.html" beforeDir="false" afterPath="$PROJECT_DIR$/wires_cables_wifi.html" afterDir="false" />
+    <list default="true" id="e293cc9f-0b0c-416e-bfba-8346d82b3056" name="Default Changelist" comment="Put in all pictures">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602597681163</updated>
       <workItem from="1602597682239" duration="115000" />
-      <workItem from="1602695325921" duration="11056000" />
+      <workItem from="1602695325921" duration="11301000" />
     </task>
     <task id="LOCAL-00001" summary="All text put in pages">
       <created>1602698716462</created>
@@ -108,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602705639253</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Put in all pictures">
+      <created>1602707055285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602707055285</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +113,8 @@
     <MESSAGE value="Applying Navbars to each page" />
     <MESSAGE value="Navbars working on all pages, working on headers" />
     <MESSAGE value="Finished updating all pages, will import pictures next" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished updating all pages, will import pictures next" />
+    <MESSAGE value="Put in all pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Put in all pictures" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="238" key="#Deployment" timestamp="1602703570381">
@@ -147,10 +141,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="938" y="268" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602697514974" />
-    <state x="0" y="503" key="Vcs.Push.Dialog.v2" timestamp="1602705642877">
+    <state x="0" y="503" key="Vcs.Push.Dialog.v2" timestamp="1602707056992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="503" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602705642877" />
+    <state x="0" y="503" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602707056992" />
     <state x="836" y="632" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602700162382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
